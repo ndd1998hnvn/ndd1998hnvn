@@ -1,5 +1,5 @@
-const text_1 = 'Hey there, I\'m Huỳnh Tấn Thịnh';
-const text_2 = 'I\'m a web app developer';
+const text_1 = 'Hey there, I\'m Nguyễn Duy Đạt';
+const text_2 = 'I\'m from HaNoi ♥♥♥';
 const text = [text_1, text_2];
 const typingText = document.getElementById('typing-text');
 var i = 0,
