@@ -1,0 +1,19 @@
+► Title - 
+	Open file that already exists using the hyperlink
+▬ Message - 
+	The system cannot find the file specified
+○ Type - 
+	System.ComponentModel.Win32Exception
+♦ [Version] Date/Hour - 
+	[2.27.3] 12/20/2020 16:10:37
+▲ Source - 
+	System
+▼ TargetSite - 
+	Boolean StartWithShellExecuteEx(System.Diagnostics.ProcessStartInfo)
+♠ StackTrace - 
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at ScreenToGif.Windows.Editor.FileHyperlink_OnClick(Object sender, RoutedEventArgs e)
+
+----------------------------------
+
