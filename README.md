@@ -1,5 +1,10 @@
 <!-- Nguyễn Đạt Profile -->
 <p align="center">
+  <a href="say-hi.gif"> 
+    <img align="center" src="say-hi.gif"/>
+  </a>
+</p>
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ndd1998hnvn&show_icons=true&count_private=true&theme=dracula"/>
   </a>
