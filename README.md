@@ -1,4 +1,4 @@
-<!-- Nguyễn Duy Đạt Profile -->
+<!-- Nguyễn Đạt Profile -->
 <p align="center">
   <a href="say-hi.gif"> 
     <img align="center" src="say-hi.gif"/>
